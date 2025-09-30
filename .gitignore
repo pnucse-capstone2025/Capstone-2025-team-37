@@ -1,0 +1,9 @@
+open-source-fabric-optee-chaincode-master/
+unine-watz-main/
+
+fixed-proxy/ta/
+fixed-proxy/fixed_chaincode_proxy_arm64
+fixed-proxy/*.cc
+fixed-proxy/*.o
+fixed-proxy/invocation.*.h
+fixed-proxy/chaincode_wasm_client_arm64
